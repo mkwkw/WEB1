@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Naverclone</title>
+    <!--<ink rel="stylesheet" href="nstyle.css">-->
+  </head>
+  <header>
+    <div>
+      <h5><font color="gray">네이버를 시작페이지로</font></h5>
+      <h5><font color="gray">쥬니어네이버</font></h5>
+      <h5><font color="gray">해피빈</font></h5>
+    </div>
+    <div>
+      <h1><font color="lightgreen">NAVER</font></h1>
+    </div>
+  </header>
+  <body>
+
+  </body>
+  <footer>
+  </footer>
+</html>
