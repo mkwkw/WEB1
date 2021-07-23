@@ -4,18 +4,36 @@
     <meta charset="utf-8">
     <title>Naverclone</title>
     <!--<ink rel="stylesheet" href="nstyle.css">-->
+    <style>
+      #grid{
+        display: grid;
+
+        grid-template-columns: 200px 130px 120px;
+        font-size: 15px;
+        color: gray;
+
+      }
+
+      #logo{
+        font-size: 30px;
+        text-decoration-style: solid;
+        color: rgb(0,199,60);
+        font-weight: bold;
+      }
+    </style>
   </head>
   <header>
-    <div>
-      <h5><font color="gray">네이버를 시작페이지로</font></h5>
-      <h5><font color="gray">쥬니어네이버</font></h5>
-      <h5><font color="gray">해피빈</font></h5>
+    <div id="grid">
+      <div>네이버를 시작페이지로</div>
+      <div>쥬니어네이버</div>
+      <div>해피빈</div>
     </div>
-    <div>
-      <h1><font color="lightgreen">NAVER</font></h1>
+    <div id="logo">
+      <div>NAVER</div>
     </div>
   </header>
   <body>
+
 
   </body>
   <footer>
